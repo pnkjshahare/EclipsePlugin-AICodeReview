@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature url="features/com.ai.codereview.feature_1.0.0.202511211219.jar" id="com.ai.codereview.feature" version="1.0.0.202511211219">
-      <category name="CTPL AI Code Reviewer"/>
-   </feature>
-   <category-def name="CTPL AI Code Reviewer" label="CTPL AI Code Reviewer"/>
-</site>
